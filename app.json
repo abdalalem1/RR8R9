@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "~ اكتب الايبي ايدي .",
-        "value": "",
+        "value": "21943556",
         "required": true
       },
       "API_HASH": {
         "description": "~ اكتب الايبي هاش .",
-        "value": "",
+        "value": "646d0a2ddb943a9cfc45684652252e64",
         "required": true
       },
       "BOT_TOKEN": {
