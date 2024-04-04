@@ -32,7 +32,7 @@ async def mmmezat(client, message):
 async def maker(client: Client, message: Message):
     await message.reply_photo(
         photo="https://graph.org/file/8736c0192030e53f3e967.jpg",
-        caption="~ Team freedom \n~ Dav Source",
+        caption="~  ميوزك اغاني \n~ سورس ميوزك الزعيم ",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
